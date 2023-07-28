@@ -1,0 +1,1681 @@
+{
+    "nodes": [
+        {
+            "name": "Marco Rubio",
+            "age": 52,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Florida",
+            "PageRank_total": 0.0038856963411470686,
+            "BC_total": 0.009222050395702095,
+            "Bills_total": 770.0,
+            "Cospon_freq_total": 157.0,
+            "Sponsor_freq_total": 613.0,
+            "cgs_115th": {
+                "PageRank": 0.012928954985251595,
+                "BC": 0.0018136141321830961,
+                "Cospon_freq": 35.0,
+                "Sponsor_freq": 67.0,
+                "Bills": 102.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.011575103272341711,
+                "BC": 0.0028881668476742985,
+                "Cospon_freq": 55.0,
+                "Sponsor_freq": 302.0,
+                "Bills": 357.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.012265501275426494,
+                "BC": 0.004090961916770727,
+                "Cospon_freq": 55.0,
+                "Sponsor_freq": 207.0,
+                "Bills": 262.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.008080717363136196,
+                "BC": 0.0024215913471615754,
+                "Cospon_freq": 12.0,
+                "Sponsor_freq": 37.0,
+                "Bills": 49.0
+            },
+            "id": 0,
+            "value": 0.009222050395702095,
+            "category": 2
+        },
+        {
+            "name": "Benjamin L. Cardin",
+            "age": 80,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Maryland",
+            "PageRank_total": 0.0031019898400270643,
+            "BC_total": 0.008018058342287008,
+            "Bills_total": 335.0,
+            "Cospon_freq_total": 88.0,
+            "Sponsor_freq_total": 247.0,
+            "cgs_115th": {
+                "PageRank": 0.015177334169664146,
+                "BC": 0.0009595781101514155,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 109.0,
+                "Bills": 120.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.006435050050293785,
+                "BC": 0.0009904891947269665,
+                "Cospon_freq": 37.0,
+                "Sponsor_freq": 93.0,
+                "Bills": 130.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.004774222846496485,
+                "BC": 0.0004461712256790331,
+                "Cospon_freq": 37.0,
+                "Sponsor_freq": 39.0,
+                "Bills": 76.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0013680996843375797,
+                "BC": 0.00017613883160101646,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 9.0
+            },
+            "id": 1,
+            "value": 0.008018058342287008,
+            "category": 1
+        },
+        {
+            "name": "John Cornyn",
+            "age": 71,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Texas",
+            "PageRank_total": 0.004991005410730903,
+            "BC_total": 0.018677441796573317,
+            "Bills_total": 333.0,
+            "Cospon_freq_total": 83.0,
+            "Sponsor_freq_total": 250.0,
+            "cgs_115th": {
+                "PageRank": 0.03264220709269174,
+                "BC": 0.00413463915122645,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 125.0,
+                "Bills": 139.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.01048820632938655,
+                "BC": 0.0020845465235383755,
+                "Cospon_freq": 32.0,
+                "Sponsor_freq": 112.0,
+                "Bills": 144.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0008107725719273738,
+                "BC": 0.00030045997863261434,
+                "Cospon_freq": 30.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 37.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.005821149386390704,
+                "BC": 0.0013962972246285574,
+                "Cospon_freq": 7.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 13.0
+            },
+            "id": 43,
+            "value": 0.018677441796573317,
+            "category": 2
+        },
+        {
+            "name": "Mazie K. Hirono",
+            "age": 76,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Hawaii",
+            "PageRank_total": 0.0022582063348437357,
+            "BC_total": 0.004094567393874053,
+            "Bills_total": 291.0,
+            "Cospon_freq_total": 36.0,
+            "Sponsor_freq_total": 255.0,
+            "cgs_115th": {
+                "PageRank": 0.008336537825658975,
+                "BC": 0.00016057068035576667,
+                "Cospon_freq": 8.0,
+                "Sponsor_freq": 66.0,
+                "Bills": 74.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0035402446980878706,
+                "BC": 0.00010665413481378738,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 67.0,
+                "Bills": 78.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.007116613409106051,
+                "BC": 0.0008221470285492759,
+                "Cospon_freq": 16.0,
+                "Sponsor_freq": 122.0,
+                "Bills": 138.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 1.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 1.0
+            },
+            "id": 55,
+            "value": 0.004094567393874053,
+            "category": 1
+        },
+        {
+            "name": "Todd Young",
+            "age": 51,
+            "party": "Republican",
+            "House": "House",
+            "state": "Indiana",
+            "PageRank_total": 0.0013635974472337923,
+            "BC_total": 0.0002642101004855762,
+            "Bills_total": 77.0,
+            "Cospon_freq_total": 71.0,
+            "Sponsor_freq_total": 6.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.00048321449369648944,
+                "BC": 0.00034817900113714675,
+                "Cospon_freq": 34.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 35.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0011274784087826647,
+                "BC": 0.0002168480537839425,
+                "Cospon_freq": 25.0,
+                "Sponsor_freq": 5.0,
+                "Bills": 30.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 7.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 7.0
+            },
+            "id": 57,
+            "value": 0.0002642101004855762,
+            "category": 3
+        },
+        {
+            "name": "Jeanne Shaheen",
+            "age": 76,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "New Hampshire",
+            "PageRank_total": 0.0014611712831473535,
+            "BC_total": 0.0002280901916175647,
+            "Bills_total": 93.0,
+            "Cospon_freq_total": 68.0,
+            "Sponsor_freq_total": 25.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 11.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 26.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 26.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0031809396425388652,
+                "BC": 0.0003654421651550629,
+                "Cospon_freq": 26.0,
+                "Sponsor_freq": 25.0,
+                "Bills": 51.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "id": 58,
+            "value": 0.0002280901916175647,
+            "category": 0
+        },
+        {
+            "name": "Susan M. Collins",
+            "age": 71,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Maine",
+            "PageRank_total": 0.0016684841658506078,
+            "BC_total": 0.0007272215114399463,
+            "Bills_total": 74.0,
+            "Cospon_freq_total": 54.0,
+            "Sponsor_freq_total": 20.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 12.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 12.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0007229480455592267,
+                "BC": 0.0001511274671086016,
+                "Cospon_freq": 24.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 25.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.004921105569250002,
+                "BC": 0.0006142245754533537,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 19.0,
+                "Bills": 33.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 4.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 4.0
+            },
+            "id": 59,
+            "value": 0.0007272215114399463,
+            "category": 2
+        },
+        {
+            "name": "Tom Cotton",
+            "age": 46,
+            "party": "Republican",
+            "House": "House",
+            "state": "Arkansas",
+            "PageRank_total": 0.0025030158863112843,
+            "BC_total": 0.008567545504473908,
+            "Bills_total": 232.0,
+            "Cospon_freq_total": 77.0,
+            "Sponsor_freq_total": 155.0,
+            "cgs_115th": {
+                "PageRank": 0.005051978042483232,
+                "BC": 0.0001723646397202082,
+                "Cospon_freq": 13.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 19.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.007076785970389353,
+                "BC": 0.001237017551121359,
+                "Cospon_freq": 37.0,
+                "Sponsor_freq": 85.0,
+                "Bills": 122.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.004282702973357745,
+                "BC": 0.00014781562736495963,
+                "Cospon_freq": 21.0,
+                "Sponsor_freq": 61.0,
+                "Bills": 82.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0009430416424923509,
+                "BC": 3.526441101471114e-05,
+                "Cospon_freq": 6.0,
+                "Sponsor_freq": 3.0,
+                "Bills": 9.0
+            },
+            "id": 143,
+            "value": 0.008567545504473908,
+            "category": 3
+        },
+        {
+            "name": "Margaret Wood Hassan",
+            "age": 65,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "New Hampshire",
+            "PageRank_total": 0.001279741421071291,
+            "BC_total": 0.0001208375282879,
+            "Bills_total": 48.0,
+            "Cospon_freq_total": 45.0,
+            "Sponsor_freq_total": 3.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 20.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 20.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0006172565700538135,
+                "BC": 0.00013303190703574188,
+                "Cospon_freq": 18.0,
+                "Sponsor_freq": 3.0,
+                "Bills": 21.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 2.0
+            },
+            "id": 144,
+            "value": 0.0001208375282879,
+            "category": 0
+        },
+        {
+            "name": "Shelley Moore Capito",
+            "age": 70,
+            "party": "Republican",
+            "House": "House",
+            "state": "West Virginia",
+            "PageRank_total": 0.0009015106966266085,
+            "BC_total": 0.0002034852200468663,
+            "Bills_total": 36.0,
+            "Cospon_freq_total": 29.0,
+            "Sponsor_freq_total": 7.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 3.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 16.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 16.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0016143570280351023,
+                "BC": 3.6126458885205645e-05,
+                "Cospon_freq": 6.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 13.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 4.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 4.0
+            },
+            "id": 158,
+            "value": 0.0002034852200468663,
+            "category": 3
+        },
+        {
+            "name": "Mitt Romney",
+            "age": 76,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Utah",
+            "PageRank_total": 0.0009214753706099663,
+            "BC_total": 1.3769897596627482e-05,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0012594536228493316,
+                "BC": 1.2178958836519334e-05,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 22.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0003645701523474959,
+                "BC": 1.2607239104691992e-05,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 15.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0007536371247917092,
+                "BC": 1.2825643077743918e-05,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 2.0,
+                "Bills": 4.0
+            },
+            "id": 202,
+            "value": 1.3769897596627482e-05,
+            "category": 2
+        },
+        {
+            "name": "Chris Van Hollen",
+            "age": 64,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Maryland",
+            "PageRank_total": 0.0023373499451386053,
+            "BC_total": 0.0011521930059079633,
+            "Bills_total": 144.0,
+            "Cospon_freq_total": 91.0,
+            "Sponsor_freq_total": 53.0,
+            "cgs_115th": {
+                "PageRank": 0.007883644784680394,
+                "BC": 0.0010688726621060744,
+                "Cospon_freq": 13.0,
+                "Sponsor_freq": 32.0,
+                "Bills": 45.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0019463591056913107,
+                "BC": 0.0006814080876796607,
+                "Cospon_freq": 38.0,
+                "Sponsor_freq": 14.0,
+                "Bills": 52.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.000297141274406358,
+                "BC": 3.446456083968271e-05,
+                "Cospon_freq": 37.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 38.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.001048519585223777,
+                "BC": 0.0001590379741640246,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 9.0
+            },
+            "id": 203,
+            "value": 0.0011521930059079633,
+            "category": 1
+        },
+        {
+            "name": "Jeff Merkley",
+            "age": 67,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Oregon",
+            "PageRank_total": 0.0020242485211220866,
+            "BC_total": 0.0015226311659216854,
+            "Bills_total": 173.0,
+            "Cospon_freq_total": 99.0,
+            "Sponsor_freq_total": 74.0,
+            "cgs_115th": {
+                "PageRank": 0.001173041339207367,
+                "BC": 7.033133057654105e-05,
+                "Cospon_freq": 18.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 24.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.005369636491599627,
+                "BC": 0.0016773001055250434,
+                "Cospon_freq": 42.0,
+                "Sponsor_freq": 40.0,
+                "Bills": 82.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.004478728271837216,
+                "BC": 0.0004503661609731298,
+                "Cospon_freq": 36.0,
+                "Sponsor_freq": 25.0,
+                "Bills": 61.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0015415155087212056,
+                "BC": 0.000518583501776779,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 3.0,
+                "Bills": 6.0
+            },
+            "id": 217,
+            "value": 0.0015226311659216854,
+            "category": 0
+        },
+        {
+            "name": "Robert Menendez",
+            "age": 69,
+            "party": "Democratic",
+            "House": "House",
+            "state": "New Jersey",
+            "PageRank_total": 0.0033627926629209138,
+            "BC_total": 0.007895504659114752,
+            "Bills_total": 520.0,
+            "Cospon_freq_total": 71.0,
+            "Sponsor_freq_total": 449.0,
+            "cgs_115th": {
+                "PageRank": 0.011750688309101745,
+                "BC": 0.0023260779228534375,
+                "Cospon_freq": 18.0,
+                "Sponsor_freq": 37.0,
+                "Bills": 55.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.009451744848855338,
+                "BC": 0.001803823104870255,
+                "Cospon_freq": 29.0,
+                "Sponsor_freq": 179.0,
+                "Bills": 208.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.011051020790586579,
+                "BC": 0.001583856881768632,
+                "Cospon_freq": 22.0,
+                "Sponsor_freq": 229.0,
+                "Bills": 251.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.005810186646013878,
+                "BC": 0.000248817475708232,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 4.0,
+                "Bills": 6.0
+            },
+            "id": 220,
+            "value": 0.007895504659114752,
+            "category": 1
+        },
+        {
+            "name": "Gary C. Peters",
+            "age": 65,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Michigan",
+            "PageRank_total": 0.0014217558503491553,
+            "BC_total": 0.0007570523511350681,
+            "Bills_total": 56.0,
+            "Cospon_freq_total": 44.0,
+            "Sponsor_freq_total": 12.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 14.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.001518713990378255,
+                "BC": 0.00021096429078420797,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 10.0,
+                "Bills": 24.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0003119171860919756,
+                "BC": 2.2652170137545504e-05,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 15.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0004376004973873762,
+                "BC": 1.2825643077743918e-06,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 3.0
+            },
+            "id": 221,
+            "value": 0.0007570523511350681,
+            "category": 1
+        },
+        {
+            "name": "Tammy Baldwin",
+            "age": 61,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Wisconsin",
+            "PageRank_total": 0.002191994635261931,
+            "BC_total": 0.0021259169946621134,
+            "Bills_total": 97.0,
+            "Cospon_freq_total": 52.0,
+            "Sponsor_freq_total": 45.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 15.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.00450008297389255,
+                "BC": 0.00027349990483138735,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 45.0,
+                "Bills": 59.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 21.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 21.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 2.0
+            },
+            "id": 222,
+            "value": 0.0021259169946621134,
+            "category": 1
+        },
+        {
+            "name": "Richard J. Durbin",
+            "age": 79,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Illinois",
+            "PageRank_total": 0.002511510832952652,
+            "BC_total": 0.0015358452336774208,
+            "Bills_total": 178.0,
+            "Cospon_freq_total": 74.0,
+            "Sponsor_freq_total": 104.0,
+            "cgs_115th": {
+                "PageRank": 0.0028858512631338086,
+                "BC": 4.267807880193201e-05,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 22.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.004343615214856848,
+                "BC": 0.0003745196931762766,
+                "Cospon_freq": 26.0,
+                "Sponsor_freq": 46.0,
+                "Bills": 72.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.006027713306382685,
+                "BC": 0.0009057120952931725,
+                "Cospon_freq": 32.0,
+                "Sponsor_freq": 51.0,
+                "Bills": 83.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 1.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 1.0
+            },
+            "id": 223,
+            "value": 0.0015358452336774208,
+            "category": 1
+        },
+        {
+            "name": "Amy Klobuchar",
+            "age": 63,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Minnesota",
+            "PageRank_total": 0.00327162995915309,
+            "BC_total": 0.009152958053267638,
+            "Bills_total": 187.0,
+            "Cospon_freq_total": 56.0,
+            "Sponsor_freq_total": 131.0,
+            "cgs_115th": {
+                "PageRank": 0.01019442086292219,
+                "BC": 0.0006908612311638887,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 46.0,
+                "Bills": 57.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0005899106942916209,
+                "BC": 0.00014859252653715995,
+                "Cospon_freq": 23.0,
+                "Sponsor_freq": 10.0,
+                "Bills": 33.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.007555921269132211,
+                "BC": 0.0010496872023081044,
+                "Cospon_freq": 21.0,
+                "Sponsor_freq": 69.0,
+                "Bills": 90.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0013299951478075534,
+                "BC": 5.429522236244925e-05,
+                "Cospon_freq": 1.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 7.0
+            },
+            "id": 224,
+            "value": 0.009152958053267638,
+            "category": 0
+        },
+        {
+            "name": "Mark Kelly",
+            "age": 59,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Arizona",
+            "PageRank_total": 0.0004681025563208308,
+            "BC_total": 2.2409588975877245e-06,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "cgs_116th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 8.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 8.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 1.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 1.0
+            },
+            "id": 226,
+            "value": 2.2409588975877245e-06,
+            "category": 0
+        },
+        {
+            "name": "Christopher A. Coons",
+            "age": 60,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Delaware",
+            "PageRank_total": 0.0016316279662543759,
+            "BC_total": 0.0005729264717327399,
+            "Bills_total": 152.0,
+            "Cospon_freq_total": 114.0,
+            "Sponsor_freq_total": 38.0,
+            "cgs_115th": {
+                "PageRank": 0.0008059833300594309,
+                "BC": 3.2096293479860665e-05,
+                "Cospon_freq": 24.0,
+                "Sponsor_freq": 2.0,
+                "Bills": 26.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0022518872402503033,
+                "BC": 0.0002524924049457238,
+                "Cospon_freq": 47.0,
+                "Sponsor_freq": 11.0,
+                "Bills": 58.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0032971136142174447,
+                "BC": 0.0005768224682553189,
+                "Cospon_freq": 39.0,
+                "Sponsor_freq": 25.0,
+                "Bills": 64.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 4.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 4.0
+            },
+            "id": 228,
+            "value": 0.0005729264717327399,
+            "category": 0
+        },
+        {
+            "name": "Mark R. Warner",
+            "age": 69,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Virginia",
+            "PageRank_total": 0.0017380336107710138,
+            "BC_total": 0.0004642737178159823,
+            "Bills_total": 78.0,
+            "Cospon_freq_total": 54.0,
+            "Sponsor_freq_total": 24.0,
+            "cgs_115th": {
+                "PageRank": 0.0021936838952387743,
+                "BC": 0.0017057415473834797,
+                "Cospon_freq": 8.0,
+                "Sponsor_freq": 6.0,
+                "Bills": 14.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0019135754084075828,
+                "BC": 0.0009351505710282769,
+                "Cospon_freq": 28.0,
+                "Sponsor_freq": 11.0,
+                "Bills": 39.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0017560197908102187,
+                "BC": 0.0002658837811138121,
+                "Cospon_freq": 16.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 23.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 2.0
+            },
+            "id": 331,
+            "value": 0.0004642737178159823,
+            "category": 0
+        },
+        {
+            "name": "Steve Daines",
+            "age": 61,
+            "party": "Republican",
+            "House": "House",
+            "state": "Montana",
+            "PageRank_total": 0.0008987917388198297,
+            "BC_total": 7.329685133465014e-05,
+            "Bills_total": 41.0,
+            "Cospon_freq_total": 39.0,
+            "Sponsor_freq_total": 2.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 4.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 4.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 15.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0004029932213063978,
+                "BC": 3.213499101721508e-05,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 2.0,
+                "Bills": 16.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 6.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 6.0
+            },
+            "id": 336,
+            "value": 7.329685133465014e-05,
+            "category": 3
+        },
+        {
+            "name": "Edward J. Markey",
+            "age": 77,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Massachusetts",
+            "PageRank_total": 0.002218445189858242,
+            "BC_total": 0.000723776296136939,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.001365736257602733,
+                "BC": 0.00023294134651606185,
+                "Cospon_freq": 25.0,
+                "Sponsor_freq": 10.0,
+                "Bills": 35.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.004743037035754287,
+                "BC": 0.001172741187472503,
+                "Cospon_freq": 51.0,
+                "Sponsor_freq": 63.0,
+                "Bills": 114.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.005005391282291175,
+                "BC": 0.0004832046135144421,
+                "Cospon_freq": 34.0,
+                "Sponsor_freq": 47.0,
+                "Bills": 81.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 364,
+            "value": 0.000723776296136939,
+            "category": 0
+        },
+        {
+            "name": "Lindsey Graham",
+            "age": 68,
+            "party": "Republican",
+            "House": "House",
+            "state": "South Carolina",
+            "PageRank_total": 0.0013707733758712467,
+            "BC_total": 0.0002494428678787429,
+            "Bills_total": 57.0,
+            "Cospon_freq_total": 29.0,
+            "Sponsor_freq_total": 28.0,
+            "cgs_115th": {
+                "PageRank": 0.002706544726808611,
+                "BC": 8.31874659788853e-06,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 5.0,
+                "Bills": 10.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0037714316405115214,
+                "BC": 0.00016033243377485453,
+                "Cospon_freq": 9.0,
+                "Sponsor_freq": 23.0,
+                "Bills": 32.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 12.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 12.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 3.0
+            },
+            "id": 368,
+            "value": 0.0002494428678787429,
+            "category": 3
+        },
+        {
+            "name": "Rob Portman",
+            "age": 68,
+            "party": "Republican",
+            "House": "House",
+            "state": "Ohio",
+            "PageRank_total": 0.0018525415573223533,
+            "BC_total": 0.0007939881799382063,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.008940701055183235,
+                "BC": 0.00020881303349518646,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 32.0,
+                "Bills": 37.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.001563128188877164,
+                "BC": 7.535598982801675e-05,
+                "Cospon_freq": 9.0,
+                "Sponsor_freq": 4.0,
+                "Bills": 13.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 14.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 370,
+            "value": 0.0007939881799382063,
+            "category": 3
+        },
+        {
+            "name": "Patrick J. Leahy",
+            "age": 83,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "Vermont",
+            "PageRank_total": 0.0020791491215820315,
+            "BC_total": 0.000755637074896285,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0015085757571151322,
+                "BC": 0.0002470699684677019,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 5.0,
+                "Bills": 16.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.004518153067321147,
+                "BC": 0.0006086118673765341,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 47.0,
+                "Bills": 62.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 10.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 10.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 387,
+            "value": 0.000755637074896285,
+            "category": 0
+        },
+        {
+            "name": "Tammy Duckworth",
+            "age": 55,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Illinois",
+            "PageRank_total": 0.0031694436686697,
+            "BC_total": 0.00463622073235194,
+            "Bills_total": 121.0,
+            "Cospon_freq_total": 53.0,
+            "Sponsor_freq_total": 68.0,
+            "cgs_115th": {
+                "PageRank": 0.014640199945865481,
+                "BC": 0.0008872427040837837,
+                "Cospon_freq": 10.0,
+                "Sponsor_freq": 68.0,
+                "Bills": 78.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 22.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 22.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 20.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 20.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 1.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 1.0
+            },
+            "id": 388,
+            "value": 0.00463622073235194,
+            "category": 1
+        },
+        {
+            "name": "James E. Risch",
+            "age": 80,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Idaho",
+            "PageRank_total": 0.0031438397027107536,
+            "BC_total": 0.007863020891436957,
+            "Bills_total": 263.0,
+            "Cospon_freq_total": 42.0,
+            "Sponsor_freq_total": 221.0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 6.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 6.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0034968362029068013,
+                "BC": 0.00012180107668077235,
+                "Cospon_freq": 15.0,
+                "Sponsor_freq": 28.0,
+                "Bills": 43.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00909862814747651,
+                "BC": 0.001194598844129637,
+                "Cospon_freq": 18.0,
+                "Sponsor_freq": 147.0,
+                "Bills": 165.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.013553203413658404,
+                "BC": 0.0015326154881977214,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 46.0,
+                "Bills": 49.0
+            },
+            "id": 390,
+            "value": 0.007863020891436957,
+            "category": 2
+        },
+        {
+            "name": "Charles E. Schumer",
+            "age": 73,
+            "party": "Democratic",
+            "House": "House",
+            "state": "New York",
+            "PageRank_total": 0.0014100094399315507,
+            "BC_total": 8.875698874940116e-05,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 7.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 7.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0031305704042191526,
+                "BC": 0.00042590190761891656,
+                "Cospon_freq": 12.0,
+                "Sponsor_freq": 11.0,
+                "Bills": 23.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.001155895605246849,
+                "BC": 0.00012073994161814353,
+                "Cospon_freq": 7.0,
+                "Sponsor_freq": 13.0,
+                "Bills": 20.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 398,
+            "value": 8.875698874940116e-05,
+            "category": 1
+        },
+        {
+            "name": "Dianne Feinstein",
+            "age": 90,
+            "party": "Democratic",
+            "House": "Senate",
+            "state": "California",
+            "PageRank_total": 0.001756948761905885,
+            "BC_total": 0.0018249595596069982,
+            "Bills_total": 124.0,
+            "Cospon_freq_total": 75.0,
+            "Sponsor_freq_total": 49.0,
+            "cgs_115th": {
+                "PageRank": 0.0012706672498867023,
+                "BC": 0.0004470200198475166,
+                "Cospon_freq": 18.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 19.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.001118802962673108,
+                "BC": 0.00044200070945399903,
+                "Cospon_freq": 31.0,
+                "Sponsor_freq": 5.0,
+                "Bills": 36.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0033649915191600907,
+                "BC": 0.000645132491794264,
+                "Cospon_freq": 24.0,
+                "Sponsor_freq": 43.0,
+                "Bills": 67.0
+            },
+            "cgs_118th": {
+                "PageRank": 0.0003902167106394022,
+                "BC": 0.0,
+                "Cospon_freq": 2.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 2.0
+            },
+            "id": 399,
+            "value": 0.0018249595596069982,
+            "category": 0
+        },
+        {
+            "name": "Patrick J. Toomey",
+            "age": 62,
+            "party": "Republican",
+            "House": "House",
+            "state": "Pennsylvania",
+            "PageRank_total": 0.0017194791074935155,
+            "BC_total": 0.0008339753575128904,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.000673935894769535,
+                "BC": 0.0010540135102500186,
+                "Cospon_freq": 9.0,
+                "Sponsor_freq": 2.0,
+                "Bills": 11.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.006166568220357231,
+                "BC": 0.0004822752636337203,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 36.0,
+                "Bills": 47.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 402,
+            "value": 0.0008339753575128904,
+            "category": 3
+        },
+        {
+            "name": "Sherrod Brown",
+            "age": 71,
+            "party": "Democratic",
+            "House": "House",
+            "state": "Ohio",
+            "PageRank_total": 0.001535690248707272,
+            "BC_total": 7.155172811707807e-05,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 11.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0006073669947642072,
+                "BC": 0.00011019579705756006,
+                "Cospon_freq": 26.0,
+                "Sponsor_freq": 4.0,
+                "Bills": 30.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.004679309430384951,
+                "BC": 0.0003965850931037978,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 28.0,
+                "Bills": 42.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 405,
+            "value": 7.155172811707807e-05,
+            "category": 1
+        },
+        {
+            "name": "Kirsten E. Gillibrand",
+            "age": 57,
+            "party": "Democratic",
+            "House": "House",
+            "state": "New York",
+            "PageRank_total": 0.001449058894300802,
+            "BC_total": 0.0005841287988697496,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0013499006563194435,
+                "BC": 0.00015806888004397612,
+                "Cospon_freq": 7.0,
+                "Sponsor_freq": 7.0,
+                "Bills": 14.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 25.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 25.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.0019251821442216222,
+                "BC": 0.0010785791233878027,
+                "Cospon_freq": 14.0,
+                "Sponsor_freq": 14.0,
+                "Bills": 28.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 514,
+            "value": 0.0005841287988697496,
+            "category": 1
+        },
+        {
+            "name": "Roy Blunt",
+            "age": 73,
+            "party": "Republican",
+            "House": "House",
+            "state": "Missouri",
+            "PageRank_total": 0.0007147944011995991,
+            "BC_total": 0.0001731508912481274,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 10.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 10.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0002757352941176471,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 11.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 11.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 539,
+            "value": 0.0001731508912481274,
+            "category": 3
+        },
+        {
+            "name": "Mitch McConnell",
+            "age": 81,
+            "party": "Republican",
+            "House": "Senate",
+            "state": "Kentucky",
+            "PageRank_total": 0.0004791872967793529,
+            "BC_total": 2.6391608637501126e-06,
+            "Bills_total": 0,
+            "Cospon_freq_total": 0,
+            "Sponsor_freq_total": 0,
+            "cgs_115th": {
+                "PageRank": 0.0003637947495015897,
+                "BC": 0.0,
+                "Cospon_freq": 4.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 4.0
+            },
+            "cgs_116th": {
+                "PageRank": 0.0005418152601651938,
+                "BC": 1.0759776106048354e-06,
+                "Cospon_freq": 3.0,
+                "Sponsor_freq": 1.0,
+                "Bills": 4.0
+            },
+            "cgs_117th": {
+                "PageRank": 0.00027582731590677906,
+                "BC": 0.0,
+                "Cospon_freq": 5.0,
+                "Sponsor_freq": 0.0,
+                "Bills": 5.0
+            },
+            "cgs_118th": {
+                "PageRank": 0,
+                "BC": 0,
+                "Cospon_freq": 0,
+                "Sponsor_freq": 0,
+                "Bills": 0
+            },
+            "id": 550,
+            "value": 2.6391608637501126e-06,
+            "category": 2
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 1,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 2,
+            "target": 28,
+            "value": 3
+        },
+        {
+            "source": 3,
+            "target": 28,
+            "value": 4
+        },
+        {
+            "source": 4,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 5,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 6,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 7,
+            "target": 28,
+            "value": 3
+        },
+        {
+            "source": 8,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 9,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 10,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 11,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 12,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 13,
+            "target": 28,
+            "value": 4
+        },
+        {
+            "source": 14,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 15,
+            "target": 28,
+            "value": 2
+        },
+        {
+            "source": 16,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 17,
+            "target": 28,
+            "value": 3
+        },
+        {
+            "source": 18,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 19,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 20,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 21,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 22,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 23,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 24,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 25,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 26,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 32,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 34,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 31,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 30,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 29,
+            "value": 1
+        },
+        {
+            "source": 28,
+            "target": 33,
+            "value": 1
+        }
+    ]
+}
